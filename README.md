@@ -1,6 +1,6 @@
 # REACT TP1 ⚛️
 
-![compragamer](https://www.arsys.es/blog/file/uploads/2017/04/React.jpg)
+![React](https://www.arsys.es/blog/file/uploads/2017/04/React.jpg)
 
 Este es el primero de una lista de ejercicios a realizar en el trabajo practico n°1 de **React**
 
